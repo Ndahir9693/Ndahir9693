@@ -167,13 +167,19 @@ I'm looking forward to turning my learning into **real-world projects and develo
   <i>Thanks for visiting my profile! 🚀</i>
 </p>
 <br>
-##Connect To Me
+
+## 🌐 Connect With Me
+
 <p align="center">
-📫 <b>Email:</b> <a href="mailto:ahirnaimish0574@gmail.com">ahirnaimish0574@gmail.com</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/naimish-dangar-316a32322">
-    <img 
-        logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:ahirnaimish0574@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahirnaimish0574%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/naimish-dangar-316a32322">
+    <img src="https://img.shields.io/badge/LinkedIn-Naimish%20Dangar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
 </p>
