@@ -175,22 +175,6 @@ I'm looking forward to turning my learning into **real-world projects and develo
 
 <br>
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="ahirnaimish0574@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="(https://www.linkedin.com/in/naimish-dangar-316a32322?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/NDAhir9693">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
 <p align="center">
   <i>Thanks for visiting my profile! 🚀</i>
 </p>
