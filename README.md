@@ -178,3 +178,12 @@ I'm looking forward to turning my learning into **real-world projects and develo
 <p align="center">
   <i>Thanks for visiting my profile! 🚀</i>
 </p>
+<br>
+#Connect To Me
+<p align="center">
+📫 <b>Email:</b> <a href="mailto:ahirnaimish0574@gmail.com">ahirnaimish0574@gmail.com</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+💼 <b>LinkedIn:</b> <a href="https://github.com/NDAhir9693">
+    <img src="https://img.shields.io/badge/GitHub-NDAhir9693-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
