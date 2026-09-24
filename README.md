@@ -163,18 +163,6 @@ I'm looking forward to turning my learning into **real-world projects and develo
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NDAhir9693&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NDAhir9693&theme=transparent&hide_border=true" />
-</p>
-
-<br>
-
 <p align="center">
   <i>Thanks for visiting my profile! 🚀</i>
 </p>
@@ -184,5 +172,7 @@ I'm looking forward to turning my learning into **real-world projects and develo
 📫 <b>Email:</b> <a href="mailto:ahirnaimish0574@gmail.com">ahirnaimish0574@gmail.com</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/naimish-dangar-316a32322">
+    <img src="https://img.shields.io/badge/LinkedIn-Naimish%20Dangar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   </a>
 </p>
