@@ -163,10 +163,6 @@ I'm looking forward to turning my learning into **real-world projects and develo
 
 <br>
 
-<p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
-</p>
-<br>
 ## 🌐 Connect With Me
 
 <p align="center">
